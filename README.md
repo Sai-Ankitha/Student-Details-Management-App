@@ -1,2 +1,2 @@
-# student-details-management-app
+# Student Details Management App
 School website students data management services
